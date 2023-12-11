@@ -2,8 +2,8 @@
   <img src="https://camo.githubusercontent.com/29d18880871c754cbe01434cac12c186652011298cd2781a0793c6031b902c38/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32612f35332f36352f32613533363531613335383136663439393237306438323735666435333138662e676966" width="800"/>
 </div>
 
-###Hi there, this is Suk Jin Mun
 <h1>
+  Hi there, this is Suk Jin Mun
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges">
