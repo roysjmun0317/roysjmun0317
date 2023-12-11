@@ -1,5 +1,11 @@
 ### Hi, this is Suk Jin Mun
-https://www.linkedin.com/in/suk-jin-mun-0ba0b4224/
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://www.linkedin.com/in/suk-jin-mun-0ba0b4224/
+" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 # About Me:
