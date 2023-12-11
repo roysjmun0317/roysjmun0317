@@ -18,7 +18,7 @@
 - 🔭 I'm currently working on leveraging my background in physics and data science to solve complex challenges in scientific research and machine learning applications.
 - 🌱 I'm currently learning advanced techniques in data analysis, machine learning, and refining data algorithms for scientific applications.
 - 👯 I'm looking to collaborate on projects that intersect physics, data science, and machine learning, especially those aimed at driving innovation in scientific domains.
-- 🤔 I'm looking for help with optimizing automation tools tailored for scientific research and exploring the integration of machine learning in interdisciplinary scientific studies.
+- 🤔 I'm looking for help with optimizing automation tools tailored for scientific research, implementing machine learning in industrial applications, and exploring interdisciplinary studies that merge physics with data science in industry-related contexts.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roysjmun0317&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
