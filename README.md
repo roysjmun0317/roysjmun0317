@@ -12,7 +12,7 @@
   </a>
 </div>
 
-
+![Snake animation](suk-jin-mun)
 
 ### About Me:
 - 🔭 Currently, I'm working on solving complex challenges in scientific research and applications of machine learning using my background in physics and data science.
