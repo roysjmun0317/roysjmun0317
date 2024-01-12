@@ -4,7 +4,6 @@
 
 <h1>
   Hi there, this is Suk Jin Mun
-  <img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif" width="30px"/>
 </h1>
 <div id="badges">
   <a href="https://www.linkedin.com/in/suk-jin-mun-0ba0b4224/">
