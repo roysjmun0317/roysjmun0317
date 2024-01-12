@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/7b4391bbfed2af6764fec491eab08b57/3142cd28c78e9e5a-0d/s1280x1920/babb6de81f0f798f188e236702f9f96f598caa8e.gifv" width="800"/>
+ <img align="right" alt="Coding" width="800" src="add your link 
+  here">
 </div>
 
 <h1>
