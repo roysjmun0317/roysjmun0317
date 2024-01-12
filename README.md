@@ -1,5 +1,6 @@
 <div id="header" align="center">
- <img align="center" alt="Coding" width="200" src="![100MDevs_Blog_1200x627_v3](https://github.com/SukjinMun/SukjinMun/assets/78396618/b9bb6195-c01a-43b8-a240-1a932cdc5690)">
+ <img align="center" alt="Coding" width="200" src="![100MDevs_Blog_1200x627_v3](https://github.com/SukjinMun/SukjinMun/assets/78396618/faf59889-c94c-4e42-a441-a37fb4d84c06)
+">
 </div>
 
 <h1>
