@@ -12,8 +12,6 @@
   </a>
 </div>
 
-![Snake animation](SukjinMun)
-
 ### About Me:
 - 🔭 Currently, I'm working on solving complex challenges in scientific research and applications of machine learning using my background in physics and data science.
 - 🌱 My current research interests include advanced data analysis techniques, machine learning, and refinement of data algorithms for scientific applications.
