@@ -1,5 +1,6 @@
 <div id="header" align="center">
- <img align="center" alt="Coding" src="https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?resize=1200%2C627">
+ <img align="center" alt="Coding" src="![100MDevs_Blog_1200x627_v3](https://github.com/SukjinMun/SukjinMun/assets/78396618/b9bb6195-c01a-43b8-a240-1a932cdc5690)
+">
 </div>
 
 <h1>
