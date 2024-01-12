@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="![100MDevs_Blog_1200x627_v3](https://github.com/SukjinMun/SukjinMun/assets/78396618/bedd4f29-6618-49d6-a85e-1f61dd0c46b4)" width="100px"/>
+  <img src="https://github.com/SukjinMun/SukjinMun/blob/main/demo/100MDevs_Blog_1200x627_v3.gif" width="30px"/>
 </div>
 
 <h1>
