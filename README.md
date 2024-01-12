@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img align="center" width="200" src="https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?resize=1200%2C627">
+  <img src="https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?resize=1200%2C627" width="100"/>
 </div>
 
 <h1>
