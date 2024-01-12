@@ -4,6 +4,7 @@
 
 <h1>
   Hi there, this is Suk Jin Mun
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges">
   <a href="https://www.linkedin.com/in/suk-jin-mun-0ba0b4224/">
