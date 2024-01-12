@@ -1,6 +1,5 @@
 <div id="header" align="center">
- <img align="center" alt="Coding" width="200" src="![100MDevs_Blog_1200x627_v3](https://github.com/SukjinMun/SukjinMun/assets/78396618/faf59889-c94c-4e42-a441-a37fb4d84c06)
-">
+ <img align="center" alt="Coding" width="200" src="https://github.blog/2023-02-01-open-sources-impact-on-the-worlds-100-million-developers/">
 </div>
 
 <h1>
