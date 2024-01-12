@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img align="center" alt="Coding" width="800" src="https://i.insider.com/558d48066da811f266e177e1?width=1000&format=jpeg&auto=webp">
+ <img align="center" alt="Coding" width="800" src="https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?fit=1200%2C627">
 </div>
 
 <h1>
