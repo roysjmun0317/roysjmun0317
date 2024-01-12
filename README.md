@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img align="center" alt="Coding" width="200" src="https://github.blog/2023-02-01-open-sources-impact-on-the-worlds-100-million-developers/">
+ <img align="center" width="200" src="https://github.blog/2023-02-01-open-sources-impact-on-the-worlds-100-million-developers/">
 </div>
 
 <h1>
