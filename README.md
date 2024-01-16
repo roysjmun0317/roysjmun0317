@@ -15,7 +15,6 @@
 
 ### About Me:
 - 🔭 Currently, I'm working on solving complex challenges in scientific research and applications of machine learning using my background in physics and data science.
-- 🌱 My current research interests include advanced data analysis techniques, machine learning, and refinement of data algorithms for scientific applications.
 - 👯 I'm interested in working on projects that intersect physics, data science, and machine learning, especially those that drive scientific innovation.
 - 🤔 In the industry-related context, I'm exploring interdisciplinary studies that merge physics and data science, and optimizing automation tools tailored for scientific research.
 
