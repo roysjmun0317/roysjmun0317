@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="![KakaoTalk_20240127_001228073_02](https://github.com/SukjinMun/SukjinMun/assets/78396618/f0ba1a83-62cd-44f5-9d14-4e03f5c27129)
-" width="800px"/>
+  <img src="![b5e6f8ea29720bec-6fa1f84c3cdceb03-0000599b](https://github.com/SukjinMun/SukjinMun/assets/78396618/a660ffa1-7838-4bca-bff9-d5e936132d41)
+" width="100"/>
 </div>
 
 <h1>
