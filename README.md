@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://github.com/SukjinMun/SukjinMun/blob/main/demo/100MDevs_Blog_1200x627_v3.gif" width="800px"/>
+  <img src="![KakaoTalk_20240127_001228073_02](https://github.com/SukjinMun/SukjinMun/assets/78396618/f0ba1a83-62cd-44f5-9d14-4e03f5c27129)
+" width="800px"/>
 </div>
 
 <h1>
