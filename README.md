@@ -1,7 +1,5 @@
-<div id="header" align="center">
-  <img src="![b5e6f8ea29720bec-6fa1f84c3cdceb03-0000599b](https://github.com/SukjinMun/SukjinMun/assets/78396618/a660ffa1-7838-4bca-bff9-d5e936132d41)
-" width="100"/>
-</div>
+
+![KakaoTalk_20240127_001228073_01](https://github.com/SukjinMun/SukjinMun/assets/78396618/9f0c5a95-52ef-47bc-91c6-d5c1b2a7a19a)
 
 <h1>
   Hi there, I'm Suk Jin Mun
