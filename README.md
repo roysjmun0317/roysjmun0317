@@ -15,6 +15,6 @@
 
 ### About Me:
 - 👯 I'm interested in working on projects that intersect physics, data science, and machine learning, especially those that drive scientific innovation.
-- 🤔 In the industry-related context, I'm exploring interdisciplinary studies that merge physics and data science, and optimizing automation tools tailored for scientific research.
+- 🤔 In the industry-related context, I'm exploring interdisciplinary studies that merge physics and data science, and optimizing automation and machine learning tools tailored for scientific research.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukjinMun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
