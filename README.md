@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=![KakaoTalk_20240127_001228073_02](https://github.com/SukjinMun/SukjinMun/assets/78396618/14f3ccda-2704-4eb1-bfbe-95dfb3fe7676) width="80"/> 
+ ![KakaoTalk_20240127_001228073_02](https://github.com/SukjinMun/SukjinMun/assets/78396618/14f3ccda-2704-4eb1-bfbe-95dfb3fe7676)
 </div>
 
 <h1>
