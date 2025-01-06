@@ -3,7 +3,8 @@
 </div>
 
 <h1>
-  Hi there, I'm Suk Jin Mun
+  Suk Jin Mun
+  @SukjinMun
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="badges">
