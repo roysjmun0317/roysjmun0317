@@ -18,7 +18,7 @@ I am passionate about integrating physics, data science, and machine learning to
 
 ---
 
-<h3>Stack</h3>
+<h3>Tech Stack</h3>
 <p>
   <!-- Programming Languages -->
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
@@ -35,7 +35,6 @@ I am passionate about integrating physics, data science, and machine learning to
   <img alt="Conda" src="https://img.shields.io/badge/-Conda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
 
   <!-- HPC / Environment -->
-  <img alt="HPC" src="https://img.shields.io/badge/-High%20Performance%20Computing-0078D4?style=flat-square&logo=azurepipelines&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
