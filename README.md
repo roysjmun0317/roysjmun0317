@@ -27,8 +27,6 @@ I am passionate about integrating physics, data science, and machine learning to
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 
   <!-- Data Science & Machine Learning -->
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
