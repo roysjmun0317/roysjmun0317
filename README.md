@@ -18,7 +18,7 @@ I am passionate about integrating physics, data science, and machine learning to
 
 ---
 
-<h3>Stack</h3>
+<h3>Tech Stack</h3>
 <p>
   <!-- Programming Languages -->
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
